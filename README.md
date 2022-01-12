@@ -1,1 +1,8 @@
-# 2.Project_ML
+# 2.Kickstarter Project
+
+
+# Description
+
+
+
+# Outcome
