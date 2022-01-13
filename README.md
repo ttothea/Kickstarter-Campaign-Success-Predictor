@@ -10,3 +10,16 @@ F1-Score was selected as the target metric to optimize prediction of state (succ
 
 
 # Outcome
+
+
+
+
+
+
+
+# Setup
+pyenv local 3.9.4
+python -m venv .venv
+source .venv/bin/activate
+pip install --upgrade pip
+pip install -r requirements.txt
