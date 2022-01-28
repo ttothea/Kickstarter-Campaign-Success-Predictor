@@ -11,17 +11,6 @@ What would be a reasonable goal recommendation for project creators (regression,
 F1-Score was selected as the target metric to optimize prediction of state (successful/failed) on.
 
 
-# Outcome and findings
-*
-*
-*
-*
-
-
-
-
-
-
 # Setup
 
 ``` Python
